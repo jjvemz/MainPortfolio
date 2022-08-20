@@ -14,18 +14,16 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hola. Soy Juan José, es un placer conocerlo.</p>
+              <p>Hola, es un placer conocerlo.</p>
             </div>
             <div>
               <p>
-                Soy un desarrollador de Front-end apasionado por mejorar mis Habilidades
-                y desarrollarme tanto como profesional como integramente. Me especializo en
-                crear aplicaciones web Front-end y me estoy desarrollando en el area de
-                machine learning. Soy un aficionado de la cultura geek, las películas, series
-                y las artés marciales.
+              Soy un desarrollador Front-end apasionado por el desarrollo web, donde constantemente quiero mejorar mis habilidades profesionales. Me especializo en crear aplicaciones web front end y estoy aprendiendo sobre Machine Learning.  
                 <br />
-                Soy un egresado de Ingenieria civil en informática y telecomunicaciones 
-                por lo que estoy ansioso de poder ingresar al mundo laboral y aprender lo que mas pueda de él.
+                Egresé de Ingeniería Civil en Informática y Telecomunicaciones en la Universidad Diego Portales y estoy buscando desarrollarme profesionalmente y adquirir más experiencias en el mundo laboral.
+                <br />
+                Soy un aficionado de la cultura geek, las películas, series, el dibujo, la fotografía
+                y las artés marciales.
               </p>
             </div>
           </div>
