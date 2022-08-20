@@ -125,10 +125,10 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/assets/CV_Juan_Jos__Vergara_English1.pdf'
+              href='/assets/CV_Juan_Jos__Vergara.pdf'
               download
             >
-              Resume <BsFillPersonLinesFill size={30} />
+              Curriculum Vitae <BsFillPersonLinesFill size={30} />
             </a>
           </li>
         </ul>
