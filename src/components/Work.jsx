@@ -31,7 +31,7 @@ const Work = () => {
               <div className='pt-8 text-center'>
                 <a href='https://github.com/jjvemz/WeatherApp'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Codigo
+                    Código
                   </button>
                 </a>
               </div>
@@ -49,7 +49,7 @@ const Work = () => {
               <div className='pt-8 text-center'>
                 <a href='https://github.com/jjvemz/Covid-Tracker'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Code
+                    Código
                   </button>
                 </a>
               </div>
@@ -68,7 +68,7 @@ const Work = () => {
               <div className='pt-8 text-center'>
                 <a href='https://github.com/jjvemz/FakeNewsML'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Code
+                    Código
                   </button>
                 </a>
               </div>
@@ -87,7 +87,7 @@ const Work = () => {
               <div className='pt-8 text-center'>
                 <a href='https://github.com/jjvemz/Repositorio-Para-SDC'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Code
+                    Código
                   </button>
                 </a>
               </div>
