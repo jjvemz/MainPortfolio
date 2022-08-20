@@ -18,7 +18,7 @@ const About = () => {
             </div>
             <div>
               <p>
-              Soy un desarrollador Front-end apasionado por el desarrollo web, donde constantemente quiero mejorar mis habilidades profesionales. Me especializo en crear aplicaciones web front end y estoy aprendiendo sobre Machine Learning.  
+              Soy un desarrollador Front-end apasionado por el desarrollo web, donde constantemente quiero mejorar mis habilidades profesionales. Me especializo en crear aplicaciones web front end y estoy aprendiendo sobre Machine Learning e Inteligencia Artificial.  
                 <br />
                 Egresé de Ingeniería Civil en Informática y Telecomunicaciones en la Universidad Diego Portales y estoy buscando desarrollarme profesionalmente y adquirir más experiencias en el mundo laboral.
                 <br />
