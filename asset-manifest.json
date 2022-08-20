@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MainPortfolio/static/css/main.96bb1712.css",
-    "main.js": "/MainPortfolio/static/js/main.549789ca.js",
+    "main.css": "/MainPortfolio/static/css/main.8971b0b7.css",
+    "main.js": "/MainPortfolio/static/js/main.83c3dfeb.js",
     "static/media/SmartData.png": "/MainPortfolio/static/media/SmartData.e3dd2319ba9ed0016a51.png",
     "static/media/Fake-News-UCM.jpg": "/MainPortfolio/static/media/Fake-News-UCM.af03e78633c591ce6e46.jpg",
     "static/media/c19tracker.png": "/MainPortfolio/static/media/c19tracker.c27c6008a02aed60a119.png",
@@ -18,11 +18,11 @@
     "static/media/firebase.png": "/MainPortfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/MainPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/MainPortfolio/index.html",
-    "main.96bb1712.css.map": "/MainPortfolio/static/css/main.96bb1712.css.map",
-    "main.549789ca.js.map": "/MainPortfolio/static/js/main.549789ca.js.map"
+    "main.8971b0b7.css.map": "/MainPortfolio/static/css/main.8971b0b7.css.map",
+    "main.83c3dfeb.js.map": "/MainPortfolio/static/js/main.83c3dfeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.96bb1712.css",
-    "static/js/main.549789ca.js"
+    "static/css/main.8971b0b7.css",
+    "static/js/main.83c3dfeb.js"
   ]
 }
