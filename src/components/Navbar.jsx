@@ -4,7 +4,8 @@ import {
   FaTimes,
   FaGithub,
   FaLinkedin,
-  FaInstagram
+  FaInstagram,
+  FaAddressCard
 } from 'react-icons/fa';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/ps4Controller.png';
@@ -126,7 +127,7 @@ const Navbar = () => {
               href='/assets/CV_Juan_Jos__Vergara.pdf'
               download
             >
-              Curriculum Vitae <BsFillPersonLinesFill size={30} />
+              Curriculum Vitae <FaAddressCard size={30} />
             </a>
           </li>
         </ul>
