@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/MainPortfolio/static/css/main.8971b0b7.css",
-    "main.js": "/MainPortfolio/static/js/main.6cb412b6.js",
+    "main.js": "/MainPortfolio/static/js/main.b599f683.js",
     "static/media/SmartData.png": "/MainPortfolio/static/media/SmartData.e3dd2319ba9ed0016a51.png",
     "static/media/Fake-News-UCM.jpg": "/MainPortfolio/static/media/Fake-News-UCM.af03e78633c591ce6e46.jpg",
     "static/media/c19tracker.png": "/MainPortfolio/static/media/c19tracker.c27c6008a02aed60a119.png",
+    "static/media/CV_Juan_Jos__Vergara.pdf": "/MainPortfolio/static/media/CV_Juan_Jos__Vergara.b1fa6f252121688dd559.pdf",
     "static/media/react.png": "/MainPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/MainPortfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/python.png": "/MainPortfolio/static/media/python.f22d1fce7c62d8e9fe76.png",
@@ -19,10 +20,10 @@
     "static/media/javascript.png": "/MainPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/MainPortfolio/index.html",
     "main.8971b0b7.css.map": "/MainPortfolio/static/css/main.8971b0b7.css.map",
-    "main.6cb412b6.js.map": "/MainPortfolio/static/js/main.6cb412b6.js.map"
+    "main.b599f683.js.map": "/MainPortfolio/static/js/main.b599f683.js.map"
   },
   "entrypoints": [
     "static/css/main.8971b0b7.css",
-    "static/js/main.6cb412b6.js"
+    "static/js/main.b599f683.js"
   ]
 }
