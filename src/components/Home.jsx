@@ -15,7 +15,10 @@ const Home = () => {
           Soy un desarrollador Front-End y aspirante a Data scientist.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-        Aspiro a crear y diseñar aplicaciones web de gran calidad. Actualmente quiero progresar como profesional de desarrollo web, Data Science e Inteligencia Artificial
+        Aspiro a crear y diseñar aplicaciones web de gran calidad
+        Actualmente me encuentro en la busqueda 
+        de progresar como profesional de desarrollo web, 
+        Data Science e Inteligencia Artificial.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
