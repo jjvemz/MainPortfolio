@@ -7,7 +7,7 @@ import {
   FaInstagram,
   FaAddressCard
 } from 'react-icons/fa';
-import { BsFillPersonLinesFill } from 'react-icons/bs';
+import pdflink from "../assets/CV_Juan_Jos__Vergara.pdf"
 import Logo from '../assets/ps4Controller.png';
 import { Link } from 'react-scroll';
 
@@ -116,7 +116,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#f72a83]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://www.instagram.com/jj.vergaram/'
             >
               Instagram <FaInstagram size={30} />
             </a>
@@ -124,8 +124,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/assets/CV_Juan_Jos__Vergara.pdf'
-              download
+              href={pdflink}
             >
               Curriculum Vitae <FaAddressCard size={30} />
             </a>
